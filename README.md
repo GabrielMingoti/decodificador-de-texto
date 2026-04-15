@@ -3,7 +3,7 @@
 Este é um projeto de criptografia e descriptografia de texto desenvolvido durante o programa Oracle Next Education (ONE) em parceria com a Alura. O foco principal foi o desenvolvimento de lógica de programação e manipulação de strings.
 
 ## 🚀 Demonstração
-Você pode testar a aplicação online aqui: https://decodificador-de-texto-psi-one.vercel.app/
+Você pode testar a aplicação online aqui: https://decodificador-de-texto-psi-one.vercel.app
 
 ## 🛠️ Funcionalidades
 - **Criptografar:** Converte vogais em códigos específicos:
